@@ -37,6 +37,7 @@ group :test do
 	gem 'database_cleaner', '0.7.0'
 	gem 'growl', '1.0.3'
 	gem 'rb-fsevent', '0.4.3.1', :require => false
+	gem 'spork', '0.9.0'
 end
 
 group :production do
